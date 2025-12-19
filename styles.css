@@ -43,8 +43,8 @@
 }
 
 img {
-  display: flex;
-  width: 50%;
+  display: center;
+  width: 100%;
 }
 
 a {
@@ -457,5 +457,6 @@ img.header-bg {
     justify-content: flex-start;
   }
 }
+
 
 
