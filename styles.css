@@ -329,7 +329,7 @@ img.header-bg {
 
 .footer__container img {
   margin-bottom: 2rem;
-  max-width: 225px;
+  max-width: 150px;
   margin-inline: auto;
 }
 
@@ -457,3 +457,4 @@ img.header-bg {
     justify-content: flex-start;
   }
 }
+
