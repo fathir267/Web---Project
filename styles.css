@@ -43,7 +43,7 @@
 }
 
 img {
-  display: center;
+  display: flex;
   width: 100%;
 }
 
@@ -329,7 +329,7 @@ img.header-bg {
 
 .footer__container img {
   margin-bottom: 2rem;
-  max-width: 150px;
+  max-width: 225px;
   margin-inline: auto;
 }
 
@@ -457,6 +457,3 @@ img.header-bg {
     justify-content: flex-start;
   }
 }
-
-
-
