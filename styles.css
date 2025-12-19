@@ -44,7 +44,7 @@
 
 img {
   display: flex;
-  width: 100%;
+  width: 50%;
 }
 
 a {
@@ -457,4 +457,5 @@ img.header-bg {
     justify-content: flex-start;
   }
 }
+
 
